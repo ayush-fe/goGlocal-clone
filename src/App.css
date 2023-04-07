@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  font-family: Poppins, sans-serif;
+}
+
+.marginTop10rem {
+  margin-top: 10rem;
 }
 
 .App-logo {
